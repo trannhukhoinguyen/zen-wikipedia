@@ -36,7 +36,7 @@
     "sharp": "^0.33.5",
     "shikiji": "^0.10.2",
     "swiper": "^11.1.15",
-    "three": "^0.171.0",
+    "three": "^0.163.0",
     "unist-util-visit": "^5.0.0",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
   },
