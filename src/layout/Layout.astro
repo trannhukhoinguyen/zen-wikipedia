@@ -6,7 +6,7 @@ import SideMenu from './SideMenu.astro';
 import ClientNavMenu from './ClientNavMenu.astro';
 import { section_from_pathname } from '@/libs/assets.js';
 import { get_menu_hash,get_generated_section_menu,process_toc_list } from "./layout_utils";
-import {config} from '@/config'
+import { config } from '@/config'
 
 
 export interface Props {
@@ -63,13 +63,13 @@ console.log(`Layout> sectiom = '${section}'`)
 				</article>
 				<div id="resize-right" class="nav-resize active"/>
 				<div id="toc-nav-div">
-					{toc_menu_items.visible && 
+					{toc_menu_items.visible &&
 						<SideMenu items={toc_menu_items.items} category="toc_menu"/>
 					}
 				</div>
 			</main>
 			<footer>
-				<p>footer</p>
+				⚡️
 			</footer>
 		</div>
 		<div id="fixed-right" class={`fixed-nav ${toc_menu_items.visible?"active":""}`}/>
@@ -173,13 +173,13 @@ footer p{
 	width: 1rem;
 }
 .scroll::-webkit-scrollbar-track {
-	background: var(--content-bg-color); 
+	background: var(--content-bg-color);
 }
 .scroll::-webkit-scrollbar-thumb {
-	background: var(--scroll-thumb-color); 
+	background: var(--scroll-thumb-color);
 }
 .scroll::-webkit-scrollbar-thumb:hover {
-  background: var(--scroll-thumb-hover-color); 
+  background: var(--scroll-thumb-hover-color);
 }
 
 @media only screen and (max-width: 700px) {

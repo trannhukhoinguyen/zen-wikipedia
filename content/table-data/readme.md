@@ -5,6 +5,7 @@ order: 8
 
 | Name   | Age | City         |
 |--------|-----|--------------|
+| Test   | 1   | New Test     |
 | Johnny | 36  | New York     |
 | John   | 30  | New York     |
 | Jane   | 28  | Los Angeles  |
