@@ -1,5 +1,6 @@
 ---
-title: Examples
-order: 2
+title: Surangama sutra
+order: 3
 ---
-All examples are listed in this section
+
+Surangama sutra

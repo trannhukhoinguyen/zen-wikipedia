@@ -1,5 +1,6 @@
 ---
-title: Examples
-order: 2
+title: Platform sutra of 6th patriarch
+order: 4
 ---
-All examples are listed in this section
+
+Platform sutra of 6th patriarch
