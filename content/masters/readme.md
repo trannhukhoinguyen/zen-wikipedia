@@ -1,3 +1,8 @@
+---
+title: Zen Masters
+order: 6
+---
+
 | **Thế hệ** | **Họ tên tiếng Anh** | **Họ tên tiếng Việt** | **Thầy**          | **Truyền thừa** | **Học Trò** | **Niên đại** |
 |------------|----------------------|-----------------------|-------------------|-----------------|-------------|--------------|
 | 1          | Mahakasyapa          | Ma-Ha-Ca-Diếp         | Shakyamuni Buddha | Ananda          |             |              |
