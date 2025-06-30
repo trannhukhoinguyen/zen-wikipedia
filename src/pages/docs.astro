@@ -10,5 +10,7 @@ const headings = (Object.hasOwn(entry.data,"toc")&&entry.data.toc == false)?[]:e
 
 ---
 <Layout title={entry.data.title} headings={headings} >
-
+    {!empty&&
+        <AstroMarkdown node={entry.tree} data={entry.data} />
+    }
 </Layout>
